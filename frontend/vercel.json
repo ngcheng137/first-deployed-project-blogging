@@ -2,12 +2,3 @@
   "rewrites": [{ "source": "/(.*)", "destination": "/" }]
 }
 
-
-
-:wq
-:q
-:q
-:q
-:wq
-:wqa
-

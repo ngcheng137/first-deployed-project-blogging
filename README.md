@@ -29,5 +29,5 @@
   Vercel: Deployment platform for the frontend.
   TypeScript: Used for type safety and better development experience.
 
-### Upcoming 
+## Upcoming 
   Currently working on different feature of private blogs and journal where only certain person that has been accessed can view it.

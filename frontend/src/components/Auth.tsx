@@ -27,9 +27,6 @@ export const Auth = ({ type }: { type: "signup" | "signin" }) => {
         <div className="flex justify-center">
             <div>
                 <div className="px-10">
-                    <div className="flex justify center text-center text-cyan-500 font-extrabold" >
-                        Hello and Welcome from PALLARBOND
-                    </div>
                     <div className="text-3xl font-extrabold">
                         Create an account
                     </div>
